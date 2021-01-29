@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-## trying new github feature
-
-typing something...
+Mostly working on many golang and flutter project in private😄.
 
 <!--
 **dopefaceee/dopefaceee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
